@@ -1,0 +1,100 @@
+* {
+	color: #f6fdfb;
+	background-color: #03110d;
+}
+h1 {
+	background-color: transparent;
+}
+h2 {
+	background-color: transparent;
+}
+p{
+	background-color: transparent;
+}
+table{
+	background-color: transparent;
+}
+nav {
+
+}
+
+header {
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: larger;
+}
+
+main {
+	color: whitesmoke;
+}
+
+	.me {
+		background-color: #061e16;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		font-size: large;
+		
+		width: 90%;
+		max-width: 1300px;
+        height: 350px;
+        border: 1px solid rgb(255, 255, 255);
+		margin: auto;
+		border-radius: 20px;
+	}
+		.me_tabel{
+			padding: 5px;
+		}
+		.me_th{
+			background-color: #061e16;
+			text-align: left;
+		}
+		.me_img{
+			margin-top: 15px;
+			margin-right: 10px;
+			background-color: #061e16;
+			max-width: 6cm;
+			border-radius: 25px;
+		}
+		.me_name {
+			background-color: #21b083;
+			border-radius: 20px;
+			margin: 20px;
+			padding: 9px;
+			width: 200px;
+        	height: 100px;
+        	border: 1px solid rgb(255, 255, 255);
+		}
+
+			.tag {
+				font-size: larger;
+			}
+
+			.name {
+				font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			}
+
+		.me_text {
+			font-size: medium;
+			margin-left: 20px;
+			background-color: transparent;
+		}
+
+	.path {
+		background-color: #03110d;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		width: 90%;
+        height: auto;
+		border-radius: 20px;
+		max-width: 1500px;
+		margin: auto;
+	}	
+		
+	.projects {
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		font-size: large;
+		width: 90%;
+        height: auto;
+		margin: auto;
+		border-radius: 20px;
+		max-width: 1500px;
+	}
+
